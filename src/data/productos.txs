@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"timestamp": "2022-04-09T19:10:15.618Z",
+		"title": "producto1",
+		"description": "Este es el producto1",
+		"code": "codigo de producto1",
+		"thumbnail": "thumbnail producto1",
+		"price": 1111,
+		"stock": 1
+	},
+	{
+		"id": 2,
+		"timestamp": "2022-07-02T23:25:55.005Z",
+		"title": "producto2",
+		"description": "Este es el producto2",
+		"code": "codigo de producto2",
+		"thumbnail": "thumbnail producto2",
+		"price": 2222,
+		"stock": 2
+	},
+	{
+		"id": 3,
+		"timestamp": "2022-07-02T23:47:21.439Z",
+		"title": "producto3",
+		"description": "Este es el producto3",
+		"code": "codigo de producto3",
+		"thumbnail": "thumbnail producto3",
+		"price": 3333,
+		"stock": 3
+	}
+]
